@@ -1,0 +1,100 @@
+2022-05-07T09:24:00,539  INFO main dumpUI2.App:25 - APP_STARTED
+2022-05-07T09:24:00,541  INFO main dumpUI2.App:27 - APP_FINISHED
+2022-05-07T10:02:31,062  INFO main dumpUI2.App:25 - APP_STARTED
+2022-05-07T10:02:31,064  INFO main dumpUI2.App:27 - APP_FINISHED
+2022-05-07T10:18:04,449  INFO main dumpUI2.App:27 - APP_STARTED
+2022-05-07T10:18:04,454  INFO main dumpUI2.command.ReadXml:24 - read xml
+2022-05-07T10:18:04,462  INFO main dumpUI2.events.EventsReceiver:34 - fire_events
+2022-05-07T10:18:04,463  INFO main dumpUI2.event.ReadXmlEvent:19 - firing event
+2022-05-07T10:18:04,463  INFO main dumpUI2.App:32 - APP_FINISHED
+2022-05-07T10:25:51,084  INFO main dumpUI2.App:28 - APP_STARTED
+2022-05-07T10:25:51,089  INFO main dumpUI2.command.ReadXml:24 - read xml
+2022-05-07T10:25:51,096  INFO main dumpUI2.events.EventsReceiver:34 - fire_events
+2022-05-07T10:25:51,096  INFO main dumpUI2.event.ReadXmlEvent:19 - firing event
+2022-05-07T10:25:51,231  INFO main dumpUI2.gui.MainFrame:24 - CheckPost_1
+2022-05-07T10:25:51,292  INFO main dumpUI2.gui.MainFrame:26 - CheckPost_2
+2022-05-07T10:25:51,326  INFO main dumpUI2.App:34 - APP_FINISHED
+2022-05-07T10:26:18,469  INFO main dumpUI2.App:28 - APP_STARTED
+2022-05-07T10:26:18,474  INFO main dumpUI2.command.ReadXml:24 - read xml
+2022-05-07T10:26:18,478  INFO main dumpUI2.events.EventsReceiver:34 - fire_events
+2022-05-07T10:26:18,479  INFO main dumpUI2.event.ReadXmlEvent:19 - firing event
+2022-05-07T10:26:18,572  INFO main dumpUI2.gui.MainFrame:24 - CheckPost_1
+2022-05-07T10:26:18,624  INFO main dumpUI2.gui.MainFrame:26 - CheckPost_2
+2022-05-07T10:26:18,663  INFO main dumpUI2.App:34 - APP_FINISHED
+2022-05-07T10:28:09,160  INFO main dumpUI2.App:28 - APP_STARTED
+2022-05-07T10:28:09,254  INFO main dumpUI2.gui.MainFrame:28 - CheckPost_1
+2022-05-07T10:28:09,348  INFO main dumpUI2.gui.MainFrame:30 - CheckPost_2
+2022-05-07T10:28:09,390  INFO main dumpUI2.command.ReadXml:24 - read xml
+2022-05-07T10:28:09,394  INFO main dumpUI2.events.EventsReceiver:34 - fire_events
+2022-05-07T10:28:09,395  INFO main dumpUI2.event.ReadXmlEvent:19 - firing event
+2022-05-07T10:28:09,395  INFO main dumpUI2.Observer:31 - fire imported dcoument added_1
+2022-05-07T10:28:09,395  INFO main dumpUI2.App:35 - APP_FINISHED
+2022-05-07T10:30:19,673  INFO main dumpUI2.App:28 - APP_STARTED
+2022-05-07T10:30:19,772  INFO main dumpUI2.gui.MainFrame:26 - CheckPost_1
+2022-05-07T10:30:19,841  INFO main dumpUI2.gui.MainFrame:28 - CheckPost_2
+2022-05-07T10:30:19,879  INFO main dumpUI2.command.ReadXml:24 - read xml
+2022-05-07T10:30:19,884  INFO main dumpUI2.events.EventsReceiver:34 - fire_events
+2022-05-07T10:30:19,884  INFO main dumpUI2.event.ReadXmlEvent:19 - firing event
+2022-05-07T10:30:19,884  INFO main dumpUI2.Observer:31 - fire imported dcoument added_1
+2022-05-07T10:30:19,885  INFO main dumpUI2.ReportDetailPanel:47 - hello entityAdded
+2022-05-07T10:30:19,885  INFO main dumpUI2.App:35 - APP_FINISHED
+2022-05-07T10:31:02,442  INFO main dumpUI2.App:28 - APP_STARTED
+2022-05-07T10:31:02,565  INFO main dumpUI2.gui.MainFrame:26 - CheckPost_1
+2022-05-07T10:31:02,639  INFO main dumpUI2.gui.MainFrame:28 - CheckPost_2
+2022-05-07T10:31:02,683  INFO main dumpUI2.command.ReadXml:24 - read xml
+2022-05-07T10:31:02,688  INFO main dumpUI2.events.EventsReceiver:34 - fire_events
+2022-05-07T10:31:02,688  INFO main dumpUI2.event.ReadXmlEvent:19 - firing event
+2022-05-07T10:31:02,688  INFO main dumpUI2.Observer:31 - fire imported dcoument added_1
+2022-05-07T10:31:02,689  INFO main dumpUI2.ReportDetailPanel:47 - hello entityAdded
+2022-05-07T10:32:23,372  INFO main dumpUI2.App:28 - APP_STARTED
+2022-05-07T10:32:23,483  INFO main dumpUI2.gui.MainFrame:26 - CheckPost_1
+2022-05-07T10:32:23,571  INFO main dumpUI2.gui.MainFrame:28 - CheckPost_2
+2022-05-07T10:32:23,615  INFO main dumpUI2.command.ReadXml:24 - read xml
+2022-05-07T10:32:23,620  INFO main dumpUI2.events.EventsReceiver:34 - fire_events
+2022-05-07T10:32:23,621  INFO main dumpUI2.event.ReadXmlEvent:19 - firing event
+2022-05-07T10:32:23,621  INFO main dumpUI2.Observer:31 - fire imported dcoument added_1
+2022-05-07T10:32:23,622  INFO main dumpUI2.ReportDetailPanel:47 - hello entityAdded
+2022-05-07T10:32:23,695  INFO main dumpUI2.App:35 - APP_FINISHED
+2022-05-07T10:35:19,196  INFO main dumpUI2.App:28 - APP_STARTED
+2022-05-07T10:35:19,293  INFO main dumpUI2.gui.MainFrame:27 - CheckPost_1
+2022-05-07T10:35:19,368  INFO main dumpUI2.gui.MainFrame:29 - CheckPost_2
+2022-05-07T10:35:19,411  INFO main dumpUI2.command.ReadXml:24 - read xml
+2022-05-07T10:35:19,417  INFO main dumpUI2.events.EventsReceiver:34 - fire_events
+2022-05-07T10:35:19,417  INFO main dumpUI2.event.ReadXmlEvent:19 - firing event
+2022-05-07T10:35:19,417  INFO main dumpUI2.Observer:31 - fire imported dcoument added_1
+2022-05-07T10:35:19,418  INFO main dumpUI2.ReportDetailPanel:47 - hello entityAdded
+2022-05-07T10:35:19,448  INFO main dumpUI2.App:35 - APP_FINISHED
+2022-05-07T10:36:47,730  INFO main dumpUI2.App:28 - APP_STARTED
+2022-05-07T10:36:47,827  INFO main dumpUI2.gui.MainFrame:27 - CheckPost_1
+2022-05-07T10:36:47,952  INFO main dumpUI2.gui.MainFrame:29 - CheckPost_2
+2022-05-07T10:36:48,007  INFO main dumpUI2.command.ReadXml:24 - read xml
+2022-05-07T10:36:48,013  INFO main dumpUI2.events.EventsReceiver:34 - fire_events
+2022-05-07T10:36:48,014  INFO main dumpUI2.event.ReadXmlEvent:19 - firing event
+2022-05-07T10:36:48,014  INFO main dumpUI2.Observer:31 - fire imported dcoument added_1
+2022-05-07T10:36:48,014  INFO main dumpUI2.ReportDetailPanel:47 - hello entityAdded
+2022-05-07T10:36:48,018  INFO main dumpUI2.App:35 - APP_FINISHED
+2022-05-07T10:42:13,180  INFO main dumpUI2.App:28 - APP_STARTED
+2022-05-07T10:42:13,279  INFO main dumpUI2.gui.MainFrame:28 - CheckPost_1
+2022-05-07T10:42:13,412  INFO main dumpUI2.gui.MainFrame:30 - CheckPost_2
+2022-05-07T10:42:13,458  INFO main dumpUI2.command.ReadXml:24 - read xml
+2022-05-07T10:42:13,464  INFO main dumpUI2.events.EventsReceiver:34 - fire_events
+2022-05-07T10:42:13,465  INFO main dumpUI2.event.ReadXmlEvent:19 - firing event
+2022-05-07T10:42:13,465  INFO main dumpUI2.Observer:31 - fire imported dcoument added_1
+2022-05-07T10:42:13,466  INFO main dumpUI2.ReportDetailPanel:47 - hello entityAdded
+2022-05-07T10:42:13,470  INFO main dumpUI2.App:35 - APP_FINISHED
+2022-05-07T10:58:34,105  INFO main dumpUI2.App:28 - APP_STARTED
+2022-05-07T10:58:34,213  INFO main dumpUI2.gui.MainFrame:31 - CheckPost_1
+2022-05-07T10:58:34,376  INFO main dumpUI2.gui.MainFrame:33 - CheckPost_2
+2022-05-07T10:58:34,422  INFO main dumpUI2.command.ReadXml:24 - read xml
+2022-05-07T10:58:34,430  INFO main dumpUI2.events.EventsReceiver:34 - fire_events
+2022-05-07T10:58:34,432  INFO main dumpUI2.event.ReadXmlEvent:19 - firing event
+2022-05-07T10:58:34,432  INFO main dumpUI2.Observer:31 - fire imported dcoument added_1
+2022-05-07T10:58:34,433  INFO main dumpUI2.App:35 - APP_FINISHED
+2022-05-07T13:33:34,159  INFO main dumpUI2.App:28 - APP_STARTED
+2022-05-07T13:33:34,258  INFO main dumpUI2.gui.MainFrame:31 - CheckPost_1
+2022-05-07T13:33:34,420  INFO main dumpUI2.gui.MainFrame:33 - CheckPost_2
+2022-05-07T13:33:34,475  INFO main dumpUI2.command.ReadXml:24 - read xml
+2022-05-07T13:33:34,486  INFO main dumpUI2.events.EventsReceiver:34 - fire_events
+2022-05-07T13:33:34,486  INFO main dumpUI2.event.ReadXmlEvent:19 - firing event
+2022-05-07T13:33:34,487  INFO main dumpUI2.Observer:31 - fire imported dcoument added_1
+2022-05-07T13:33:34,488  INFO main dumpUI2.App:35 - APP_FINISHED
